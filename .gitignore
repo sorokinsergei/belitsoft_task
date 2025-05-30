@@ -2,4 +2,6 @@
 /dist
 /build
 /api/node_modules
+/api/dist
 /client/node_modules
+/client/build

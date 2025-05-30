@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f37e3e9-ff19-4317-9e0d-49ba3f70698e" name="Changes" comment="Add project">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/eslint.config.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/nodemon.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/app.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/middleware/asyncHeadler.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/middleware/cache.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/middleware/globalErrorHandler.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/middleware/logging.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/middleware/validateRequest.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/modules/movie/movei.type.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/modules/movie/movie.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/modules/movie/movie.route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/modules/movie/movie.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/modules/movie/validationSchemas.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/server.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/services/TvMazeService.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/utils/fetchWithTimeout.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/eslint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/api-client/apiClient.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/api-client/apiRoutes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/api-client/interfaces.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/GenreList/GenreList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/MovieDetails/MovieDetails.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/MovieList/MovieList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Rating/Rating.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Search/Search.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/hooks/useBrowserMode.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/hooks/useDebaunce.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Movies.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/theme.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/vite-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/tsconfig.node.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vite.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2xgsc4Q0Z7ZZbbMbXrffQG61oLI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "js.linters.configure.manually.selectedeslint": "true",
+    "last_opened_file_path": "/Users/sergeyhome/Documents/Projects/belitsoft/client/src/components",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/sergeyhome/Documents/Projects/belitsoft/api/node_modules/prettier",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "/Users/sergeyhome/Documents/Projects/belitsoft/api/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/src/components" />
+      <recent name="$PROJECT_DIR$/client/src/components/List" />
+      <recent name="$PROJECT_DIR$/client/src/components/MovieDetails" />
+      <recent name="$PROJECT_DIR$/client" />
+      <recent name="$PROJECT_DIR$/api" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/client" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="npm dev" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f37e3e9-ff19-4317-9e0d-49ba3f70698e" name="Changes" comment="" />
+      <created>1748371126789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748371126789</updated>
+      <workItem from="1748371127859" duration="1664000" />
+      <workItem from="1748372812840" duration="5764000" />
+      <workItem from="1748411644840" duration="8742000" />
+      <workItem from="1748455411293" duration="12444000" />
+      <workItem from="1748539779457" duration="7486000" />
+      <workItem from="1748587746322" duration="1659000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add gitignore file">
+      <option name="closed" value="true" />
+      <created>1748589330971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748589330971</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add gitignore file" />
+    <MESSAGE value="Add project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add project" />
+  </component>
+</project>
