@@ -1,0 +1,5 @@
+/node_modules
+/dist
+/build
+/api/node_modules
+/client/node_modules
